@@ -6,6 +6,10 @@
     scroll-behavior: smooth;
 }
 
+::-webkit-scrollbar {
+    display: none;
+}
+
 header {
     background-color: #ffffff;
     width: 100%;
